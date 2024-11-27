@@ -5,7 +5,7 @@ import { GuestGuard } from "./guards/GuestGuard";
 import Categories from "./Pages/dashboard/Categories";
 import Dash from "./Pages/dashboard/Dash";
 import Members from "./Pages/dashboard/Members";
-import Dashboard from "./Pages/Home/Home";
+import Dashboard from "./Pages/Home/Home.jsx";
 import Signup from "./Pages/Signup/Signup";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
